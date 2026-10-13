@@ -1,0 +1,25 @@
+11:27:41 RUN A02_k6_s6 sources=['A01', 'A03', 'A04', 'A05', 'A07', 'A08'] n_src=1728 n_tgt=288 device=cuda
+11:27:42 [pretrain] epoch 0 val_loss 0.6911 best 0.6911
+11:27:50 [pretrain] epoch 10 val_loss 0.6196 best 0.6196
+11:27:58 [pretrain] epoch 20 val_loss 0.4606 best 0.4163
+11:28:06 [pretrain] epoch 30 val_loss 0.4367 best 0.3843
+11:28:14 [pretrain] epoch 40 val_loss 0.4093 best 0.3843
+11:28:22 [pretrain] epoch 50 val_loss 0.3854 best 0.3703
+11:28:30 [pretrain] epoch 60 val_loss 0.4118 best 0.3678
+11:28:38 [pretrain] epoch 70 val_loss 0.3449 best 0.3449
+11:28:46 [pretrain] epoch 80 val_loss 0.3544 best 0.3449
+11:28:54 [pretrain] epoch 90 val_loss 0.3606 best 0.3374
+11:29:02 [pretrain] epoch 100 val_loss 0.3395 best 0.3336
+11:29:10 [pretrain] epoch 110 val_loss 0.3328 best 0.3175
+11:29:18 [pretrain] epoch 120 val_loss 0.3200 best 0.3168
+11:29:26 [pretrain] epoch 130 val_loss 0.3291 best 0.3151
+11:29:34 [pretrain] epoch 140 val_loss 0.3246 best 0.3113
+11:29:42 [pretrain] epoch 150 val_loss 0.3258 best 0.3113
+11:29:50 [pretrain] epoch 160 val_loss 0.3147 best 0.3048
+11:29:58 [pretrain] epoch 170 val_loss 0.3008 best 0.2992
+11:30:06 [pretrain] epoch 180 val_loss 0.3488 best 0.2977
+11:30:14 [pretrain] epoch 190 val_loss 0.3187 best 0.2977
+11:30:22 [pretrain] epoch 200 val_loss 0.4240 best 0.2964
+11:30:30 [pretrain] epoch 210 val_loss 0.3173 best 0.2964
+11:30:33 [pretrain] early stop at epoch 214
+11:30:33 DONE acc=0.5556 kappa=0.1111 time=171.6s

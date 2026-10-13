@@ -1,0 +1,9 @@
+12:21:34 Loaded pretrained checkpoint: /content/drive/MyDrive/MLEMSDA_BCI2a/checkpoints/A04_k2_s3_deepconv.pt
+12:21:34 RUN A04_k2_s3 sources=['A02', 'A08'] n_src=576 n_tgt=288 device=cuda
+12:21:39 [meta] epoch 0 query_loss 0.6091
+12:22:25 [meta] epoch 10 query_loss 0.6315
+12:23:12 [meta] epoch 20 query_loss 0.5891
+12:23:59 [meta] epoch 30 query_loss 0.5540
+12:24:46 [meta] epoch 40 query_loss 0.5347
+12:25:33 [meta] epoch 50 query_loss 0.5305
+12:26:15 DONE acc=0.5451 kappa=0.0903 time=280.8s

@@ -1,0 +1,20 @@
+ft_bs: 40
+inner_lr: 0.0005
+meta_epochs: 2
+meta_lr: 0.0001
+meta_momentum: 0.7
+meta_wd: 0.0005
+model_version: MLEMSDA-main_repo + scratch_pretrain_BCI2a_2class
+num_tasks: 2
+pre_bs: 64
+pre_delta: 0.0001
+pre_lr: 0.0001
+pre_max_epochs: 3
+pre_patience: 20
+pre_val_frac: 0.1
+pre_wd: 0.0005
+preprocessing_version: preproc_v1
+query_size: 10
+support_bs: 32
+support_max: 20
+training_seed: 2026

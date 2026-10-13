@@ -1,0 +1,15 @@
+05:46:41 WARNING: checkpoint not found (/content/drive/MyDrive/MLEMSDA_BCI2a/checkpoints/A06_k1_s1_deepconv.pt), starting meta from scratch weights
+05:46:45 RUN A06_k1_s1 sources=['A07'] n_src=288 n_tgt=288 device=cuda
+05:46:50 [meta] epoch 0 query_loss 0.7066
+05:47:23 [meta] epoch 10 query_loss 0.7109
+05:47:55 [meta] epoch 20 query_loss 0.7010
+05:48:28 [meta] epoch 30 query_loss 0.6915
+05:49:00 [meta] epoch 40 query_loss 0.6771
+05:49:33 [meta] epoch 50 query_loss 0.6845
+05:50:05 [meta] epoch 60 query_loss 0.6787
+05:50:38 [meta] epoch 70 query_loss 0.6800
+05:51:10 [meta] epoch 80 query_loss 0.6720
+05:51:43 [meta] epoch 90 query_loss 0.6663
+05:52:15 [meta] epoch 100 query_loss 0.6725
+05:52:48 [meta] epoch 110 query_loss 0.6664
+05:53:21 [meta] epoch 120 query_loss 0.6691

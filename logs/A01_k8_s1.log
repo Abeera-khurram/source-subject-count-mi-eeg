@@ -1,0 +1,27 @@
+11:36:07 RUN A01_k8_s1 sources=['A02', 'A03', 'A04', 'A05', 'A06', 'A07', 'A08', 'A09'] n_src=2304 n_tgt=288 device=cuda
+11:36:11 [pretrain] epoch 0 val_loss 0.6998 best 0.6998
+11:36:19 [pretrain] epoch 10 val_loss 0.5541 best 0.5541
+11:36:28 [pretrain] epoch 20 val_loss 0.4593 best 0.4408
+11:36:37 [pretrain] epoch 30 val_loss 0.4245 best 0.4245
+11:36:46 [pretrain] epoch 40 val_loss 0.4211 best 0.4191
+11:36:55 [pretrain] epoch 50 val_loss 0.4149 best 0.4093
+11:37:04 [pretrain] epoch 60 val_loss 0.4192 best 0.4028
+11:37:13 [pretrain] epoch 70 val_loss 0.4016 best 0.4010
+11:37:22 [pretrain] epoch 80 val_loss 0.4094 best 0.3940
+11:37:32 [pretrain] epoch 90 val_loss 0.3993 best 0.3937
+11:37:41 [pretrain] epoch 100 val_loss 0.4062 best 0.3937
+11:37:47 [pretrain] early stop at epoch 106
+11:37:55 [meta] epoch 0 query_loss 0.4963
+11:39:13 [meta] epoch 10 query_loss 0.4973
+11:40:31 [meta] epoch 20 query_loss 0.5030
+11:41:49 [meta] epoch 30 query_loss 0.5069
+11:43:06 [meta] epoch 40 query_loss 0.5015
+11:44:24 [meta] epoch 50 query_loss 0.4932
+11:45:42 [meta] epoch 60 query_loss 0.4939
+11:46:59 [meta] epoch 70 query_loss 0.4908
+11:48:17 [meta] epoch 80 query_loss 0.4924
+11:49:35 [meta] epoch 90 query_loss 0.4882
+11:50:52 [meta] epoch 100 query_loss 0.4804
+11:52:10 [meta] epoch 110 query_loss 0.4915
+11:53:28 [meta] epoch 120 query_loss 0.4863
+11:54:46 [meta] epoch 130 query_loss 0.4935

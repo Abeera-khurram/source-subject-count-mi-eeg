@@ -1,0 +1,12 @@
+08:25:40 RUN A01_k2_s9 sources=['A06', 'A07'] n_src=576 n_tgt=288 device=cuda
+08:25:41 [pretrain] epoch 0 val_loss 0.6937 best 0.6937
+08:25:43 [pretrain] epoch 10 val_loss 0.6947 best 0.6910
+08:25:46 [pretrain] epoch 20 val_loss 0.6990 best 0.6897
+08:25:48 [pretrain] epoch 30 val_loss 0.6935 best 0.6851
+08:25:50 [pretrain] epoch 40 val_loss 0.6935 best 0.6851
+08:25:53 [pretrain] epoch 50 val_loss 0.6783 best 0.6678
+08:25:55 [pretrain] epoch 60 val_loss 0.6675 best 0.6675
+08:25:58 [pretrain] epoch 70 val_loss 0.6921 best 0.6452
+08:26:00 [pretrain] epoch 80 val_loss 0.6690 best 0.6452
+08:26:00 [pretrain] early stop at epoch 81
+08:26:00 DONE acc=0.5035 kappa=0.0069 time=19.9s

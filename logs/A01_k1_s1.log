@@ -1,0 +1,21 @@
+11:55:41 RUN A01_k1_s1 sources=['A09'] n_src=288 n_tgt=288 device=cuda
+11:55:44 [pretrain] epoch 0 val_loss 0.7146 best 0.7146
+11:55:45 [pretrain] epoch 10 val_loss 1.2339 best 0.6053
+11:55:46 [pretrain] epoch 20 val_loss 1.0685 best 0.6053
+11:55:46 [pretrain] early stop at epoch 22
+11:55:49 [meta] epoch 0 query_loss 0.5874
+11:56:21 [meta] epoch 10 query_loss 0.5511
+11:56:53 [meta] epoch 20 query_loss 0.5178
+11:57:26 [meta] epoch 30 query_loss 0.5073
+11:57:58 [meta] epoch 40 query_loss 0.4918
+11:58:30 [meta] epoch 50 query_loss 0.4938
+11:59:01 [meta] epoch 60 query_loss 0.4735
+11:59:33 [meta] epoch 70 query_loss 0.4711
+12:00:05 [meta] epoch 80 query_loss 0.4681
+12:00:37 [meta] epoch 90 query_loss 0.4677
+12:01:09 [meta] epoch 100 query_loss 0.4505
+12:01:41 [meta] epoch 110 query_loss 0.4491
+12:02:13 [meta] epoch 120 query_loss 0.4428
+12:02:45 [meta] epoch 130 query_loss 0.4411
+12:03:16 [meta] epoch 140 query_loss 0.4390
+12:03:48 [meta] epoch 150 query_loss 0.4291

@@ -1,0 +1,6 @@
+14:37:30 RUN A05_k7_s4 sources=['A01', 'A02', 'A03', 'A04', 'A06', 'A07', 'A08'] n_src=2016 n_tgt=288 device=cpu
+14:39:10 [pretrain] epoch 0 val_loss 0.6840 best 0.6840
+14:53:53 [pretrain] epoch 10 val_loss 0.6031 best 0.6031
+15:09:04 [pretrain] epoch 20 val_loss 0.4734 best 0.4670
+15:23:55 [pretrain] epoch 30 val_loss 0.4612 best 0.4282
+15:39:01 [pretrain] epoch 40 val_loss 0.4150 best 0.3899
